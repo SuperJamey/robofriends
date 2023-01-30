@@ -1,5 +1,2 @@
-Need to fix: Link opens README file instead of App.
-
-Robofriends is my first app written using REACT. This is from
-a lesson in ZTM's Complete Web Development Course.
-Courses can be found here => https://zerotomastery.io/courses/
+This is a project that I built using REACT. It was built while taking Zero To Mastery course Complete Web Development 2023.
+Courses can be found at: https://zerotomastery.io/courses/
